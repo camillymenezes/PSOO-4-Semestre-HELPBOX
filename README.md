@@ -8,19 +8,19 @@
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivo 🎯
 
 Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência mais eficiente para clientes, técnicos e administradores.
 
-## 🔧 Solução
+## 🔧 Solução 🔧
 
 O sistema criado permitirá que os usuários clientes, no caso, os funcionários da empresa que optaram pelo sistema da HelpBox, abram chamados de suporte de TI para software e hardware, recebam uma sugestão automática promovida pela Inteligência Artificial, caso a solução da IA não for eficiente, o chamado será redirecionado a um profissional de suporte. Estes poderão visualizar os chamados atribuidos a si, as informações sobre a solicitação e dados para contato dos clientes. Adicionalmente, o administrador terá a posição de usuário master, gerenciando usuários e relatórios, bem como tendo acesso a todas as funcionalidades.
 
-## 📝 BackLog de Produto
+## 📝 BackLog de Produto 📝
 
 [Clique aqui para abrir a documentação](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Product%20Backlog.pdf)
 
-##  📆 Cronograma de evolução do produto
+##  📆 Cronograma de evolução do produto 📆
 
 
 | Sprint | Período | Link para o Repositório |
@@ -36,7 +36,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 
-## 💻 TIME 💻
+## 🧑‍💻 TIME 🧑‍💻
 
 | Nome     | GitHub | Função     |
 |----------|--------|------------|
