@@ -18,7 +18,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 
 ## 📝 BackLog de Produto
 
-[Clique aqui para abrir a documentação](file:///C:/Users/camil/Downloads/Product%20Backlog.pdf)
+[Clique aqui para abrir a documentação](Product_Backlog.pdf)
 
 
 ## 💻 SCRUM  TEAM 💻
