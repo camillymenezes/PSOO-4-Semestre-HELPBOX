@@ -20,6 +20,14 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 
 [Clique aqui para abrir a documentação](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Product%20Backlog.pdf)
 
+##  📆 Cronograma de evolução do produto
+
+
+| Sprint | Período | Link para o Repositório |
+|--------|---------|--------------------------|
+| 🚀 SPRINT 1 | 19/08/2025 - 25/08/2025| Ver no GitHub |
+
+
 
 ## 💻 SCRUM  TEAM 💻
 
