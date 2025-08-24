@@ -18,7 +18,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 
 ## 📝 BackLog de Produto
 
-[Clique aqui para abrir a documentação](docs/ProductBacklog.pdf)
+[Clique aqui para abrir a documentação](docs/ProductBacklog)
 
 
 ## 💻 SCRUM  TEAM 💻
