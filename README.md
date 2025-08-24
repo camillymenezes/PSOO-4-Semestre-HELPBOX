@@ -36,7 +36,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
 
-## 💻 SCRUM  TEAM 💻
+## 💻 TIME 💻
 
 | Nome     | GitHub | Função     |
 |----------|--------|------------|
