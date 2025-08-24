@@ -18,7 +18,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 
 ## 📝 BackLog de Produto
 
-[Clique aqui para abrir a documentação](docs/ProductBacklog)
+[Clique aqui para abrir a documentação](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Product%20Backlog.pdf)
 
 
 ## 💻 SCRUM  TEAM 💻
