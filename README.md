@@ -28,6 +28,13 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 | 🚀 SPRINT 1 | 19/08/2025 - 25/08/2025| Ver no GitHub |
 
 
+## 💻 Tecnologias Utilizadas 💻
+<a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
+<a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
+<a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+
 
 ## 💻 SCRUM  TEAM 💻
 
