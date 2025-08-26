@@ -25,7 +25,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 
 | Sprint | Período | Link para o Repositório |
 |--------|---------|--------------------------|
-| 🚀 SPRINT 1 | 19/08/2025 - 25/08/2025| Ver no GitHub |
+| 🚀 SPRINT 1 | 19/08/2025 - 25/08/2025| [Ver no GitHub](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/tree/main/Diagrama%20UML) |
 
 
 ## 💻 Tecnologias Utilizadas 💻
