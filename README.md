@@ -26,7 +26,7 @@ O sistema criado permitirá que os usuários clientes, no caso, os funcionários
 | Sprint | Período | Link para o Repositório | Documentação|
 |--------|---------|--------------------------|-------|
 | 🚀 **SPRINT 1** | 19/08/2025 - 25/08/2025| Estruturação do GitHub e Diagrama de Caso de Uso| [Ver no GitHub](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/tree/main/Diagrama%20UML) |
-| 🚀  **SPRINT 2** | 26/08/2025 - 01/09/2025 | Diagrama de Classe de Implementação | [Ver no GitHub]() |
+| 🚀  **SPRINT 2** | 26/08/2025 - 01/09/2025 | Diagrama de Classe de Implementação | [Ver no GitHub](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/tree/main/Diagrama%20UML/Classes) |
  🚀  **SPRINT 3** | 02/09/2025 - 08/09/2025 | Diagrama de Objetos| [Ver no GitHub]() |
 | 🚀  **SPRINT 4** | 09/09/2025 - 15/09/2025 | Diagrama de Sequência| Ver no GitHub| [Ver no GitHub]() |
 | 🚀  **SPRINT 5** | 16/09/2025 - 22/09/2025 | Diagrama de Comunicação | Ver no GitHub| [Ver no GitHub]() |
