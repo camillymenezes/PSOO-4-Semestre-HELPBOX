@@ -6,19 +6,16 @@
   # HELPBOX - Projeto de Sistemas Orientada a Objeto
 </div>
 
----
 
-## 🎯 Objetivo 🎯
 
-Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência mais eficiente para clientes, técnicos e administradores.
+## 🎯 Desafio (dor do Parceiro) 🎯
 
-## 🔧 Solução 🔧
+Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência otimizada e centralizada para clientes, técnicos e administradores.
 
-O sistema criado permitirá que os usuários clientes, no caso, os funcionários da empresa que optaram pelo sistema da HelpBox, abram chamados de suporte de TI para software e hardware, recebam uma sugestão automática promovida pela Inteligência Artificial, caso a solução da IA não for eficiente, o chamado será redirecionado a um profissional de suporte. Estes poderão visualizar os chamados atribuidos a si, as informações sobre a solicitação e dados para contato dos clientes. Adicionalmente, o administrador terá a posição de usuário master, gerenciando usuários e relatórios, bem como tendo acesso a todas as funcionalidades.
+Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
 
-## 📝 BackLog de Produto 📝
+## 📝 [Backlog de Produto]() 📝
 
-[Clique aqui para abrir a documentação](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Product%20Backlog.pdf)
 
 ##  📆 Cronograma de evolução do produto 📆
 [Clique aqui para abrir a documentação](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Sprint%20Backlog.md)
