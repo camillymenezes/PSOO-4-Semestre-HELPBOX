@@ -30,6 +30,11 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 
+## ⚙️ [Estrutura do projeto](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Estrutura%20do%20Projeto.md)
+
+## ⏯️ [Como executar, usar e testar o projeto]() ⏯️
+
+## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)]() 💼
 
 ## 🧑‍💻 Equipe 🧑‍💻
 
