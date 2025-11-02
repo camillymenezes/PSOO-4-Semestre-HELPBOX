@@ -34,7 +34,7 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## ⏯️ [Como executar, usar e testar o projeto](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Executar%20o%20Projeto.md) ⏯️
 
-## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)]() 💼
+## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/tree/main/Pasta%20de%20Documenta%C3%A7%C3%A3o) 💼
 
 ## 🧑‍💻 Equipe 🧑‍💻
 
