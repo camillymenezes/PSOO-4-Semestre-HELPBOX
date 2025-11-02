@@ -19,7 +19,7 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ##  📈 [Cronograma de evolução do Projeto](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Gr%C3%A1fico%20de%20Burndown.md) 📈
 
-## 📆 [Sprint Backlog]() 📆
+## 📆 [Sprint Backlog](https://github.com/camillymenezes/PSOO-4-Semestre-HELPBOX/blob/main/Sprint%20Backlog.md) 📆
 
 
 
